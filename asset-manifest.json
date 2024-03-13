@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ecomm-react-coffee/static/css/main.7befa1cd.css",
+    "main.js": "/ecomm-react-coffee/static/js/main.eff9bda5.js",
+    "static/media/bg1.jpg": "/ecomm-react-coffee/static/media/bg1.ed495866c7f28244ae05.jpg",
+    "index.html": "/ecomm-react-coffee/index.html",
+    "main.7befa1cd.css.map": "/ecomm-react-coffee/static/css/main.7befa1cd.css.map",
+    "main.eff9bda5.js.map": "/ecomm-react-coffee/static/js/main.eff9bda5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7befa1cd.css",
+    "static/js/main.eff9bda5.js"
+  ]
+}
